@@ -1,1 +1,15 @@
 # road-to-slms
+
+
+| Method Name | Paper | Why It Is Important |
+|-------------|-------|---------------------|
+| Multi-Agent Workflow and Infrastructure | A Survey on LLM-Based Multi-Agent Systems: Workflow, Infrastructure, and Challenges (Springer, 2024) | Outlines a unified structure with components like perception and evolution, essential for building collaborative SLM systems that mimic human societal intelligence. |
+| Communication-Centric Framework for Multi-Agent Systems | Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems (arXiv:2502.14321, 2025) | Introduces a framework focusing on communication protocols and interactions, crucial for coordinating SLMs to achieve emergent collective behaviors and address scalability challenges. |
+| LLM-Empowered Agent-Based Simulation | Large Language Models Empowered Agent-Based Modeling and Simulation: A Survey and Perspectives (Nature, 2024) | Surveys integration techniques for agent simulations, emphasizing feedback and adaptation mechanisms to foster collective intelligence in SLM networks. |
+| Autonomous Agent Construction Framework | A Survey on Large Language Model Based Autonomous Agents (Springer, 2024) | Proposes a holistic framework for agent construction and applications, extendable to SLMs for enhancing multi-agent cooperation across diverse fields. |
+| Multi-Agent Collaboration Mechanisms | Multi-Agent Collaboration Mechanisms: A Survey of LLMs (Tran et al., 2025) | Analyzes structures, strategies, and coordination in multi-agent systems, vital for optimizing SLM interactions to achieve superior collective performance. |
+| AutoGen Multi-Agent Framework | AutoGen: Enabling Next-Gen Multi-Agent Conversations (Wu et al., 2023) | Provides a practical framework for agent conversations and design patterns, adaptable to SLMs for real-world collaborative intelligence applications. |
+| Sibyl Multi-Agent Debate Framework | Sibyl: A Simple yet Effective LLM-Based Agent Framework (Lyu et al., 2023) | Implements debate mechanisms among agents to improve reasoning, important for SLM collectives in enhancing factual accuracy and decision-making. |
+| Generative Agent-Based Models (GABMs) | LLMs and Generative Agent-Based Models for Complex Systems Research (ScienceDirect, 2024) | Demonstrates how language models simulate human-like behaviors in multi-agent environments, adaptable to SLMs for modeling collective intelligence in social and natural systems. |
+| LLM-Driven Swarm Intelligence Integration | Multi-Agent Systems Powered by Large Language Models: Applications in Swarm Intelligence (Frontiers, 2025) | Explores LLM prompts replacing rule-based behaviors in swarms, key for SLM-driven emergent collective intelligence in domains like foraging and flocking. |
+| LLM-to-SLM Conversion for Agentic Systems | Small Language Models are the Future of Agentic AI (arXiv:2506.02153, 2025) | Argues for the shift to SLMs in multi-agent setups, proposing conversion algorithms to enable efficient, scalable collective intelligence in resource-constrained environments.
