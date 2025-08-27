@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 
 ## Project Overview
-[Description]
+Minimal implementation of Communication-Centric Framework for Multi-Agent Systems from paper: "Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems" (`papers/paper.pdf`).
+
+Project is educational to get up to speed about methods presented in the paper. It should be run in local environment without GPU access, using recommended and known libaries in the field.
+
+The goal is to understand the method at a fundamental level that will allow for future research in this field.
 
 ## Build & Test Commands
 
